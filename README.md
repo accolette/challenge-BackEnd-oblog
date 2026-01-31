@@ -5,7 +5,7 @@ Projet réalisé dans le cadre d’un exercice de formation, visant à concevoir
 L’objectif de ce projet est de mettre en place une application web simple permettant :
 - d’afficher une liste d’articles,
 - de naviguer vers le détail d’un article,
-- et de structurer proprement une application Express avec des vues dynamiques.
+- de structurer proprement une application Express avec des vues dynamiques.
 
 Le projet met l’accent sur la compréhension des bases du **back-end JavaScript**, du **routage**, et du **templating** côté serveur.
 
@@ -21,6 +21,9 @@ Le projet met l’accent sur la compréhension des bases du **back-end JavaScrip
 - Manipulation de données (tableaux, objets, filtrage)
 - Gestion des paramètres d’URL et des requêtes utilisateur
 - Séparation des responsabilités (logique / vues / données)
+- **Création et gestion d’un champ de recherche côté serveur**
+- **Mise en place de routes paramétrées pour filtrer par auteur ou catégorie**
+- **Organisation des routes et contrôleurs en modules pour plus de maintenabilité**
 
 ---
 
@@ -30,6 +33,9 @@ Le projet met l’accent sur la compréhension des bases du **back-end JavaScrip
 - Page de détail pour chaque article via une route paramétrée
 - Navigation entre les pages
 - Structure de vues factorisée et maintenable
+- **Champ de recherche pour filtrer les articles par titre ou texte**
+- **Filtrage des articles par auteur ou catégorie**
+- **Modularisation du routeur et des contrôleurs**
 
 ---
 
@@ -41,6 +47,9 @@ Le projet met l’accent sur la compréhension des bases du **back-end JavaScrip
 - Factoriser le code HTML avec des **partials EJS** pour éviter les duplications
 - Structurer un projet back-end de façon plus maintenable
 - Manipuler des données côté serveur pour répondre à des besoins d’affichage
+- **Créer et gérer un champ de recherche côté serveur**
+- **Mettre en place des routes paramétrées pour filtrer par auteur ou catégorie**
+- **Organiser les routes et contrôleurs en modules**
 - Déboguer des erreurs courantes liées au rendu des vues et aux routes
 
 ---
@@ -50,8 +59,6 @@ Le projet met l’accent sur la compréhension des bases du **back-end JavaScrip
 - **Node.js**
 - **Express**
 - **EJS**
-
----
 
 ---
 
@@ -78,6 +85,9 @@ This project focuses on learning **JavaScript back-end fundamentals**, **routing
 - Data manipulation (arrays, objects, filtering)
 - URL parameters and request handling
 - Separation of concerns (logic / views / data)
+- **Creating and handling a search field server-side**
+- **Setting up parameterized routes to filter by author or category**
+- **Organizing routes and controllers in modules for maintainability**
 
 ---
 
@@ -87,6 +97,9 @@ This project focuses on learning **JavaScript back-end fundamentals**, **routing
 - Article detail pages using parameterized routes
 - Navigation between views
 - Maintainable and reusable view structure
+- **Search field to filter articles by title or text**
+- **Filter articles by author or category**
+- **Modularized routes and controllers**
 
 ---
 
@@ -98,6 +111,9 @@ This project focuses on learning **JavaScript back-end fundamentals**, **routing
 - Using **EJS partials** to avoid duplicated markup
 - Structuring a small back-end project for better maintainability
 - Manipulating server-side data to drive dynamic content
+- **Creating and handling a search field server-side**
+- **Implementing parameterized routes to filter by author or category**
+- **Organizing routes and controllers in modules**
 - Debugging common issues related to routing and template rendering
 
 ---
