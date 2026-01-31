@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "Ivre, il refait tous les challenges en une nuit.",
+    "author": "Ben O'clock",
+    "category": "Histoire",
+    "img": "laptop.jpg",
+    "img_alt": "Le code css de notre site",
+    "sub_title": "Des bulles et des points virgules",
+    "text": "Tout a commencé par une phrase tristement célèbre : « juste un dernier verre ». Quelques heures plus tard, notre développeur improvisé se retrouvait face à son écran, convaincu d’avoir soudainement compris JavaScript dans sa globalité. Entre deux gorgées et trois erreurs de syntaxe, il a enchaîné les challenges avec une assurance déconcertante. Chaque bug était ignoré avec élégance, chaque console.log devenait une révélation mystique. À l’aube, il avait tout rendu, sans se souvenir exactement comment. Le code fonctionnait, personne ne sait pourquoi. Les experts parlent encore aujourd’hui d’un miracle informatique."
+  },
+  {
+    "id": 2,
+    "title": "Optimisez les performances de vos bugs en production.",
+    "author": "Satya Nadella",
+    "category": "DevOps",
+    "img": "hacker.jpg",
+    "img_alt": "Le boss de notre équipe de développer",
+    "sub_title": "Le monde entier (ne) leur envie (pas) cette technique",
+    "text": "Corriger un bug est une chose, l’exploiter intelligemment en est une autre. Certaines équipes ont fait le choix audacieux de laisser les bugs vivre leur meilleure vie en production. Chaque erreur devient une fonctionnalité non documentée, chaque crash une opportunité d’apprentissage collectif. Grâce à une surveillance approximative et une foi inébranlable dans le redémarrage du serveur, ces bugs atteignent des niveaux de performance impressionnants. Une méthode risquée, mais redoutablement cohérente pour qui aime vivre dangereusement."
+  },
+  {
+    "id": 3,
+    "title": "JavaScript recommandé par l'OMS !",
+    "author": "Jee-Dee",
+    "category": "Technologies",
+    "img": "health.jpg",
+    "img_alt": "L'alliance du dev et de la santé",
+    "sub_title": "const healthy = true;",
+    "text": "Selon une étude dont personne n’a retrouvé la source, JavaScript aurait des effets bénéfiques sur la santé mentale. Après plusieurs heures passées à déboguer une fonction récalcitrante, le développeur apprend la patience, l’humilité et le lâcher-prise. Les erreurs deviennent des compagnons de route, les warnings des conseils amicaux. Bien que l’OMS n’ait jamais officiellement confirmé ces résultats, de nombreux développeurs affirment se sentir plus vivants après une bonne session de débogage intensif."
+  },
+  {
+    "id": 4,
+    "title": "Insolite : il s'etouffe avec un package npm.",
+    "author": "Tony 404",
+    "category": "Histoire",
+    "img": "stack.jpg",
+    "img_alt": "Une pile symbolisant nos paquets NPM",
+    "sub_title": "Disk Usage Overflow",
+    "text": "L’incident s’est produit lors d’un banal `npm install` exécuté sans méfiance. En quelques instants, des milliers de dépendances se sont accumulées, alourdissant le projet au-delà du raisonnable. Le développeur, dépassé par la taille du dossier node_modules, a tenté de comprendre à quoi servaient ces packages, sans succès. Malgré une machine à bout de souffle et un disque dur saturé, le projet fonctionnait toujours, prouvant une fois de plus que personne ne maîtrise vraiment l’écosystème npm."
+  },
+  {
+    "id": 5,
+    "title": "Top 10 des astuces pour coder avec les pieds.",
+    "author": "Stef.io",
+    "category": "Astuces",
+    "img": "foot.jpg",
+    "img_alt": "Le dev détendu devant la cheminée",
+    "sub_title": "La numéro 7 va vous faire halluciner",
+    "text": "Coder avec les pieds n’est pas une métaphore, mais une véritable philosophie. Cet article explore les pires habitudes de développement, assumées et revendiquées. Mauvaise posture, café froid, documentation ignorée : tout est réuni pour produire un code fragile mais authentique. La célèbre astuce numéro 7 consiste à déployer sans tester, afin de conserver l’effet de surprise. Une méthode déconseillée par tous, mais pratiquée par beaucoup."
+  },
+  {
+    "id": 6,
+    "title": "Git pour les noobs.",
+    "author": "Ben O'clock",
+    "category": "Technologies",
+    "img": "nicole-learn-git.jpg",
+    "img_alt": "Octocat, le symbole de GitHub",
+    "sub_title": "Ne pas scier la branche sur laquelle on est assis",
+    "text": "Git est souvent présenté comme un outil indispensable, mais rarement comme un terrain miné. Ce guide s’adresse à celles et ceux qui ont déjà perdu leur travail après un mauvais rebase ou un merge mal compris. On y découvre les bases essentielles pour survivre : faire des commits réguliers, lire les messages d’erreur et éviter les commandes tapées au hasard. Car Git pardonne rarement, mais se souvient toujours."
+  }
+]

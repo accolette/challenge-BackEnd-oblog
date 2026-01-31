@@ -1,0 +1,34 @@
+<%- include("partials/header.ejs") %>
+
+        <div class="pure-g">
+          <article class="post pure-u-1">
+            <header>
+              <h1><%= articles[articleIndex].title %></h1>
+              <div class="post-meta">
+                Par <a href="/articles/byauthor/<%= articles[articleIndex].author %>"><%= articles[articleIndex].author %></a> dans la catégorie
+                <a href="/articles/bycategory/<%= articles[articleIndex].category %>"> <%= articles[articleIndex].category %> </a>
+              </div>
+            </header>
+            <figure class="post-picture">
+              <img
+                class="pure-img"
+                src="/images/<%= articles[articleIndex].img %>"
+                alt="<%= articles[articleIndex].img_alt %>"
+              />
+              <figcaption class="post-picture-caption">
+                <%= articles[articleIndex].sub_title %>
+              </figcaption>
+            </figure>
+            <div class="post-content">
+              <p>
+                <%= articles[articleIndex].text %>
+              </p>
+            </div>
+            <footer>
+              <a class="pure-button" href="/">Retour à l'accueil</a>
+            </footer>
+          </article>
+        </div>
+
+<%- include("partials/footer.ejs") %>
+
