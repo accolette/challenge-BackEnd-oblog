@@ -12,7 +12,8 @@ const homePage = {
       (article) =>
         article.title.toLowerCase().includes(userSearch) ||
         article.text.toLowerCase().includes(userSearch) ||
-        article.author.toLowerCase().includes(userSearch),
+        article.author.toLowerCase().includes(userSearch) ||
+        article.category.toLowerCase().includes(userSearch),
     );
     res.render("index.ejs", {
       articles: resultSearch,
