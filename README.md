@@ -4,7 +4,7 @@
 
 ## 🇫🇷 Présentation
 
-Projet réalisé dans le cadre d’un exercice de formation, visant à concevoir une application de blog côté serveur avec **JavaScript**.
+Projet réalisé dans le cadre d’un exercice de formation lors du module 9/25 de la formation, visant à concevoir une application de blog côté serveur avec **JavaScript**.
 
 L’objectif est de créer une application web simple permettant :
 - d’afficher une liste dynamique d’articles de blog,
@@ -74,7 +74,7 @@ Le projet met l’accent sur la maîtrise des **fondamentaux du back-end JavaScr
 
 ## 🇬🇧 Presentation
 
-Project developed as part of a training exercise, focused on building a server-side blog application using **JavaScript**.
+Project developed as part of a training exercise during module 9 out of 25 of the training, focused on building a server-side blog application using **JavaScript**.
 
 The goal is to create a simple web application that:
 - displays a dynamic list of blog articles,
